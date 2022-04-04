@@ -1,1 +1,2 @@
 # odin-recipes
+This website will contain a few of my recipes that I make regularly. This project will demonstrate my knowledge in the fundamentals with html. It will also hopefully show the progress I make as I continue to study and learn html and css.
